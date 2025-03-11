@@ -31,12 +31,12 @@
 <img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/addNote.jpg" alt="新增笔记内容" width="200" heigth="300">  
 
 ## 待办内容  
-### 因待办仅需添加文字，所以待办放在组件addIcon中    
+### 因待办仅需添加文字，所以待办放在组件addIcon中  
 **新增待办**  
 <img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/addToDo.jpg" alt="新增待办内容" width="200" heigth="300">  
 
-## 搜索    
-### 进行搜索    
+## 搜索  
+### 进行搜索  
 **搜索笔记**  
 <img src="https://github.com/nzcBevis/rememberIt/raw/b1256d62b41e5fcbf1c3d4a982b1b972c762542d/static/images/screenshot/searchNoteList.jpg" alt="搜索笔记" width="200" heigth="300">  
 **搜索待办**  
