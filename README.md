@@ -5,7 +5,7 @@
 * 待办可进行添加、勾选当前待办可把当前待办划掉。  
 * 通过在搜索框输入关键字筛选出含有相关文字的笔记或者待办内容。  
 
-## 暂无长按删除功能；
+## 暂无长按删除功能：
 * 小程序端导航栏左上角的返回无添加事件；  
 * 待办事件勾选后无后续将已完成事件隐藏或者放在最后，  
 * 以及取消勾选后把当前事件放回当前时间的数组中置顶；  
@@ -20,8 +20,6 @@
 ### 待办列表页面  
 **默认待办列表**  
 <img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/defaultToDoList.jpg" alt="默认待办列表" width="200" heigth="300">
-**新增待办列表**  
-<img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/newToDoList.jpg" alt="新增待办列表" width="200" heigth="300">
 **新增及改变状态时待办列表**  
 <img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/newToDoList%26changestatus.jpg" alt="新增及改变状态时待办列表" width="200" heigth="300">
 
@@ -38,5 +36,8 @@
 <img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/addToDo.jpg" alt="新增待办内容" width="200" heigth="300">
 
 ## 搜索  
-**进行搜索**  
-<img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/search.jpg" alt="搜索" width="200" heigth="300">
+### 进行搜索  
+**搜索笔记**
+<img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/searchNoteList.jpg" alt="搜索笔记" width="200" heigth="300">
+**搜索待办** 
+<img src="https://github.com/nzcBevis/rememberIt/raw/0428fd93a32a4314d3c8caa9b59875918c958c02/static/images/screenshot/searchToDoList.jpg" alt="搜索待办" width="200" heigth="300">
