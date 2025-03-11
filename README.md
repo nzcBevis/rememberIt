@@ -10,3 +10,24 @@
 * 待办事件勾选后无后续将已完成事件隐藏或者放在最后，  
 * 以及取消勾选后把当前事件放回当前时间的数组中置顶；  
 
+## index部分  
+### 笔记列表页面 
+![默认笔记列表](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/defaultNoteList.jpg)
+![新增笔记列表](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/newNoteList.jpg)
+
+### 待办列表页面
+![默认待办列表](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/defaultToDoList.jpg)
+![新增待办列表](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/newToDoList.jpg)
+![新增及改变状态时待办列表](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/newToDoList&changestatus.jpg)
+
+## note部分  
+### 笔记内容
+![默认笔记内容](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/defaultNote.jpg)
+![新增笔记内容](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/addNote.jpg)
+
+## 因待办仅需添加文字，所以待办放在组件addIcon中
+### 待办内容
+![新增待办内容](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/addToDo.jpg)
+
+## 搜索
+![搜索](https://github.com/nzcBevis/rememberIt/raw/master/static/images/scrrenshot/search.jpg)
