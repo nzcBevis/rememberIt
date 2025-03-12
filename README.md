@@ -10,6 +10,9 @@
 * 待办事件勾选后无后续将已完成事件隐藏或者放在最后，  
 * 以及取消勾选后把当前事件放回当前时间的数组中置顶；  
 
+## github仓库地址：[gitee地址](https://github.com/nzcBevis/rememberIt.git)  
+## gitee仓库地址：[gitee地址](https://gitee.com/niezichao39/remember-it)  
+
 ## index部分  
 ### 笔记列表页面  
 **默认笔记列表**  
@@ -37,7 +40,6 @@
 
 ## 搜索  
 ### 进行搜索  
-<<<<<<< HEAD
 **搜索笔记**  
 <img src="https://github.com/nzcBevis/rememberIt/raw/b1256d62b41e5fcbf1c3d4a982b1b972c762542d/static/images/screenshot/searchNoteList.jpg" alt="搜索笔记" width="200" heigth="300">  
 **搜索待办**  
