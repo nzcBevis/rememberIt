@@ -37,6 +37,7 @@
 
 ## 搜索  
 ### 进行搜索  
+<<<<<<< HEAD
 **搜索笔记**  
 <img src="https://github.com/nzcBevis/rememberIt/raw/b1256d62b41e5fcbf1c3d4a982b1b972c762542d/static/images/screenshot/searchNoteList.jpg" alt="搜索笔记" width="200" heigth="300">  
 **搜索待办**  
